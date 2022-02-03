@@ -4,9 +4,11 @@
     box-sizing: border-box;
 }
 
-h3 {
+h1 {
     color: hsl(0, 0%, 100%);
     font-weight: 600;
+    font-size: 12pt;
+    margin-bottom: 10px;
 }
 
 a {
@@ -77,11 +79,7 @@ body {
     margin: 20px 0;
 }
 
-.card-content h3 {
-    margin-bottom: 10px;
-}
-
-.card-content h3:hover, a:hover {
+.card-content h1:hover, a:hover {
     color: hsl(178, 100%, 50%);
     cursor: pointer;
 }
