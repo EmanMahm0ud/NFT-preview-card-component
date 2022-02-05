@@ -82,6 +82,7 @@ body {
 
 .card-content p {
     font-size: 14pt;
+    padding: 5px 0;
 }
 
 .card-content h1:hover, a:hover {
